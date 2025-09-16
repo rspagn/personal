@@ -2,8 +2,8 @@ pycbc
 matplotlib
 numpy
 scipy
-pylab
 gwpy
 astropy
 pandas
+
 mpmath
