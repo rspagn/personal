@@ -6,4 +6,6 @@ gwpy
 astropy
 pandas
 mpmath
+emcee
+
 
